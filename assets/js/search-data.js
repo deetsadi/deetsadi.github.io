@@ -99,16 +99,14 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
+            },},{id: "news-finished-2nd-at-the-1x-world-model-challenge-cvpr-2025-https-opendrivelab-com-challenge2025-1x-wm",
+          title: 'Finished 2nd at the 1X World Model Challenge @ CVPR 2025! (~https://opendrivelab.com/challenge2025/#1x-wm~)',
           description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
+          section: "News",},{id: "news-looking-forward-to-attending-icml-2025-and-presenting-our-work-at-the-building-physically-plausible-world-models-earth-americas-workshop",
+          title: 'Looking forward to attending ICML 2025 and presenting our work at the Building...',
           description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+          section: "News",},{id: "news-joining-cerebras-systems-as-a-research-engineer-intern-in-the-inference-ml-team",
+          title: 'Joining Cerebras Systems as a Research Engineer Intern in the Inference ML team!...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
