@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2025-05-20 00:00:00-0000
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+Finished 2nd at the 1X World Model Challenge @ CVPR 2025! (~https://opendrivelab.com/challenge2025/#1x-wm~)
