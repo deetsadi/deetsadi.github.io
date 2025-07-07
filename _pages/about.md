@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-# subtitle: 4th year ECE Undergraduate student at the University of Waterloo
+subtitle:
 
 profile:
   align: right
