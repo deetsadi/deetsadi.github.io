@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Finished 2nd at the 1X World Model Challenge @ CVPR 2025! (~https://opendrivelab.com/challenge2025/#1x-wm~)
+Finished 2nd at the <a href="https://opendrivelab.com/challenge2025/#1x-wm">1X World Model Challenge</a> @ CVPR 2025!

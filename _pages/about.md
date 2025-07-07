@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: 4th year ECE Undergraduate student at the University of Waterloo
 
 profile:
   align: right
@@ -25,8 +25,12 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hi! I'm Aditya, a 4th-year Computer Engineering student at the University of Waterloo.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I am broadly interested in making models smarter and faster. Through research projects in spatial AI and world modelin for robotics and high-fidelity synthetic data generation for medical imaging, I've gained a strong understanding and appreciation for the representation learning techniques that underpin leading generative frameworks, including diffusion and masked image/language modelling.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Further, I believe designing such solutions with a hardware-aware mindset allows us to fully capitulate on the representative power of these networks. Inspired by recent work on ternary quantized models, whose benefits cannot be fully realized in current GPUs, I'm currently completing an undergraduate project on deploying such models on embedded systems (FPGAs) through custom kernels for matmuls and nonlinear operations. This Fall, I'll be joining Cerebras Systems as a Research Engineer Intern, working on knowledge distillation and mixture-of-experts techniques to make large-scale models more efficient on their wafer-scale engine architecture.
+
+Looking ahead, I'm particularly excited about applying reinforcement learning and representation learning techniques to embodied AI and self-driving, enabling systems to learn robust decision-making processes that can generalize across diverse environments and tasks and bridging the gap between simulation and reality.
+
+Also - I'm currently looking into applying for graduate school with a planned 2026 start, excited to dive deeper into the intersection of generative modeling, representation learning, and autonomous systems. If you know of a lab that might be a good fit, please feel free to reach out.

@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Joining Cerebras Systems as a Research Engineer Intern in the Inference ML team!
+Joining <a href="https://www.cerebras.ai">Cerebras Systems</a> as a Research Engineer Intern in the Inference ML team!

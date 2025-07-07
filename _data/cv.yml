@@ -2,96 +2,126 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
-    - name: Languages
-      value: English, German
+      value: Aditya Sridhar
+    - name: Email
+      value: a27sridh@uwaterloo.ca
+    - name: Phone
+      value: 1-647-390-6626
+    - name: GitHub
+      value: github.com/deetsadi
+    - name: LinkedIn
+      value: adityasridhar1
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: Bachelor of Applied Science (Computer Engineering)
+      institution: University of Waterloo, Waterloo, Canada
+      year: Expected 2026
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
-      description:
-        - Description 1.
-        - Description 2.
+        - GPA: 3.88/4.0
+        - President's Scholarship of Distinction Entrance Award, 2021
+        - President's Research Award (x2), 2023
+        - Selected to the 2023 Fall cohort of the Computer Science Research Mentorship Program at Google
 
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
-      description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
-      description:
-        - Description 1.
-        - Description 2.
+    - title: Research Engineer Intern - Inference ML Team
+      institution: Cerebras Systems
+      year: September 2025 - December 2025
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
+    - title: World Modelling Research Assistant
+      institution: University of Waterloo
+      year: Jan 2025 - June 2025
       description:
-
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
+        - Designed robust world models for robot policy learning
+        - Finished 2nd in the 1X World Modelling challenge (https://opendrivelab.com/challenge2025/, WaterlooVipLab)
+        - Applied spatiotemporal transformer (GENIE) and parallel decoding (MaskGIT) approaches
+        - Developed Diffusion and Flow Matching techniques for long-horizon frame prediction
+        - Experimented with discrete (VQ-VAE) and continuous (VAE) tokenizers for video representation learning
+        
+    - title: Machine Learning Intern
+      institution: Arteria AI
+      year: Jan 2025 - Apr 2025
+      description:
+        - Built intelligent data extraction tool for unstructured documents using NLP models
+        - Developing RAG pipeline using Vector DBs and encoder models for automated annotations
+        
+    - title: Operation & ML Research Analyst
+      institution: University of Waterloo
+      year: Jan 2024 - Apr 2024
+      description:
+        - Collaborated with NAVBLUE (Airbus company) on crew pairing optimization problem
+        - Developed survival analysis models using Deep Learning neural networks (PyTorch)
+        - Engineered reliability score framework for flight connections
+        - Built experimental simulation framework leveraging statistical techniques like SMOTE
+        
+    - title: Computer Vision & ML Research Assistant
+      institution: University of Waterloo
+      year: May 2023 - Aug 2023
+      description:
+        - Designed solution for generating high-fidelity synthetic MRI slices using diffusion models
+        - Built novel conditioning scheme combining classical image processing and medical imaging techniques
+        - Created dataset of synthetic MRI slices available publicly
+        
+    - title: AI/ML Engineering Intern
+      institution: Eon Media
+      year: Sep 2022 - Dec 2022
+      description:
+        - Spearheaded end-to-end AI solution for video metadata extraction
+        - Developed multi-model pipeline processing hundreds of videos daily using Kubernetes, Docker, EC2
+        - Performed data augmentation training GANs to generate synthetic training images
+        - Designed automated solution for annotating training data using hierarchical clustering
+        
+    - title: Software Developer Intern
+      institution: Royal Bank of Canada
+      year: Jan 2022 - Apr 2022
+      description:
+        - Architected real-time contextual anomaly detection API using Deep Learning sequence models
+        - Containerized and deployed APIs using Docker/OpenShift
+        - Built full CI/CD Pipeline using Jenkins
 
 - title: Open Source Projects
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - title: <a href="https://github.com/deetsadi/MakeMoreImages">MakeMoreImages</a>
+      year: 2023-now
+      description: One script implementation of Denoising Diffusion Probabilistic Model (DDPM) from scratch for educational purposes
+      
+    - title: <a href="https://github.com/deetsadi/Contrastive-Music-Text-Pre-Training">Contrastive Music-Text Pre-Training</a>
+      year: 2023-now
+      description: Model that learns relationships between music and text, enabling zero-shot retrieval of music data based on natural language prompts
+      
+    - title: <a href="https://github.com/deetsadi/MatryoshkaGPT">MatryoshkaGPT</a>
+      year: 2023-now
+      description: Inspired by Matryoshka Representation Learning, learns representations of varying size within the same embeddings matrix
 
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 1921
+    - year: 2023
       items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
+        - President's Research Award (x2)
+        - Selected to Computer Science Research Mentorship Program at Google
+    - year: 2021
       items:
-        - Max Planck Medal
+        - President's Scholarship of Distinction Entrance Award
 
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Topic 1.
+    - title: Machine Learning & AI
       items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
+        - World modeling and Spatial AI
+        - Intelligent robotics through RL
+        - Scalable representation learning and generative models
+        - Model compression and efficient inference
+        - Hardware acceleration for neural networks
 
 - title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - <u>Publications:</u> Technical writing on Medium about neural networks and AI models
+    - <u>Research:</u> Currently working on undergraduate thesis supervised by Prof. Nachiket Kapre
+    - <u>Upcoming Studies:</u> Fundamentals of Computational Intelligence, Reinforcement Learning

@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Looking forward to attending ICML 2025 and presenting our work at the Building Physically Plausible World Models :earth_americas: workshop!
+Looking forward to attending ICML 2025 and presenting our work on <a href="https://arxiv.org/abs/2506.01182">Humanoid World Models</a> at the <a href="https://physical-world-modeling.github.io">Building Physically Plausible World Models</a> :earth_americas: workshop!
