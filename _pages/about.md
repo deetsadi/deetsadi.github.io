@@ -27,7 +27,7 @@ latest_posts:
 
 Hi! I'm Aditya, a 4th-year Computer Engineering student at the University of Waterloo.
 
-I am broadly interested in making models **smarter and faster**. Through research projects in **spatial AI and world modeling** for robotics and **high-fidelity synthetic data generation** for medical imaging, I've gained a strong understanding and appreciation for the **representation learning techniques** that underpin leading generative frameworks, including diffusion and masked image/language modelling. 
+I am broadly interested in making models **smarter and faster**. Through research projects in **spatial AI and world modeling for robotics** and **high-fidelity synthetic data generation for medical imaging**, I've gained a strong understanding and appreciation for the **representation learning techniques** that underpin leading generative frameworks, including diffusion and masked image/language modelling. 
 
 Further, I believe designing such solutions with focus on **efficiency and hardware-software codesign** allows us to fully capitulate on the representative power of these networks. Inspired by recent work on ternary quantized models, whose benefits cannot be fully realized in current GPUs, I'm currently completing an undergraduate project on deploying such models on embedded systems (FPGAs) through custom kernels for matmuls and nonlinear operations. This Fall, I'll be joining Cerebras Systems as a Research Engineer Intern, working on **knowledge distillation and mixture-of-experts** techniques to make large-scale models more efficient on their wafer-scale engine architecture.
 
